@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta azul",
+      "price": "2.40"
+    },
+    {
+      "id": 2,
+      "name": "caneta verde",
+      "price": "2.00"
+    },
+    {
+      "id": 3,
+      "name": "caneta vermelha",
+      "price": "3.40"
+    },
+    {
+      "name": "caneta rosa",
+      "price": "200.40",
+      "id": 4
+    }
+  ]
+}
